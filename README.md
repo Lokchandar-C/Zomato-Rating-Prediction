@@ -31,6 +31,7 @@ The project's potential expansion lies in creating a user-friendly interface tai
 ## Dataset
 
 The project uses the Zomato restaurant dataset for Bangalore. You can find the dataset at [link to dataset](https://drive.google.com/file/d/1NkdLBjWhHeR6qLAh7shZbA1Q9jLZk2Rv/view?usp=sharing).
+The compressed file link: .[link to dataset](https://drive.google.com/file/d/1bc-4q43HHkt9gAgXAwgYKNBAFHA1CKXd/view?usp=sharing)
 
 ## License
 
